@@ -1,4 +1,4 @@
-# Practica 02 Lowpo 
+# Practica 02
 ***
 **Autor: Josue Norberto Aguilar Islas**
 ![rendered.png](rendered.png)
